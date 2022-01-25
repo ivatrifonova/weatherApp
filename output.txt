@@ -1,0 +1,51 @@
+The weather for today (01/25/2022 18:54) in Barcelona is: 
+   Temperature: 10 °C
+   Minimal Temperature: 9 °C
+   Maximal Temperature: 12 °C
+   Feels like: 10 °C
+   The weather for today (01/25/2022 22:01) in Abu Dhabi is: 
+   Temperature: 20 °C
+   Minimal Temperature: 20 °C
+   Maximal Temperature: 21 °C
+   Feels like: 20 °C
+   The weather for today (01/25/2022 13:05) in London is: 
+   Temperature: 2 °C
+   Minimal Temperature: 1 °C
+   Maximal Temperature: 3 °C
+   Feels like: 0 °C
+   The weather for today (01/25/2022 19:06) in Madrid is: 
+   Temperature: 9 °C
+   Minimal Temperature: 5 °C
+   Maximal Temperature: 10 °C
+   Feels like: 9 °C
+   The weather for today (01/25/2022 21:06) in Minsk is: 
+   Temperature: -1 °C
+   Minimal Temperature: -2 °C
+   Maximal Temperature: -1 °C
+   Feels like: -6 °C
+   The weather for today (01/25/2022 21:07) in Minsk is: 
+   Temperature: -1 °C
+   Minimal Temperature: -2 °C
+   Maximal Temperature: -1 °C
+   Feels like: -6 °C
+   The weather for today (01/25/2022 19:07) in Pristina is: 
+   Temperature: -10 °C
+   Minimal Temperature: -10 °C
+   Maximal Temperature: -9 °C
+   Feels like: -10 °C
+   The weather for today (01/25/2022 15:08) in San Juan is: 
+   Temperature: 35 °C
+   Minimal Temperature: 35 °C
+   Maximal Temperature: 35 °C
+   Feels like: 35 °C
+   The weather for today (01/26/2022 02:08) in Taipei is: 
+   Temperature: 19 °C
+   Minimal Temperature: 18 °C
+   Maximal Temperature: 20 °C
+   Feels like: 19 °C
+   The weather for today (01/25/2022 22:09) in Tbilisi is: 
+   Temperature: 1 °C
+   Minimal Temperature: 1 °C
+   Maximal Temperature: 1 °C
+   Feels like: -4 °C
+   
